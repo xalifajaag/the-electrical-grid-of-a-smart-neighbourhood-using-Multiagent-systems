@@ -27,14 +27,14 @@ import pandas as pd
 
 # domain="magicbroccoli.de"  # the domain of the XMPP server
 
-# pwd="we&you@utc2022"       # the pass word of homes and the aggregator
+# pwd="lljjffouururrrr"       # the pass word of homes and the aggregator
 
 
-#   FOR THE OPENFIRE LOCAL SERVER -------------------------------------
+#   FOR THE OPENFIRE SERVER -------------------------------------
 
 domain="localhost"  # the domain of the XMPP server
 
-pwd="st50"       # the pass word of homes and the aggregator
+pwd="150688523"       # the pass word of homes and the aggregator
 
 
 ##########################################################################################
